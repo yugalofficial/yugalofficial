@@ -1,61 +1,402 @@
-# Hi 👋, I'm Yugal
+<div align="center">
 
-### An experienced developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yugal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20|%20AI%20%26%20Software%20Engineering%20Enthusiast&descAlignY=60"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yugalofficial&label=Profile views&color=0e75b6&style=flat" alt="yugalofficial" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;AI+%26+Data+Analytics+Enthusiast;Software+Engineering+Learner;Smart+India+Hackathon+Finalist;Building+Impactful+Technology+Solutions"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugalofficial" alt="yugalofficial" /></a> </p>
+<br/>
 
-- 📫 How to reach me **yugalna28@gmail.com**
+![University](https://img.shields.io/badge/University-University%20of%20Delhi-6D28D9?style=for-the-badge)
+![Degree](https://img.shields.io/badge/B.Sc-Computer%20Science-7C3AED?style=for-the-badge)
+![Graduation](https://img.shields.io/badge/Graduating-2026-8B5CF6?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/yugalofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yugalofficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yugalofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugalofficial" height="30" width="40" /></a>
+![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4F46E5?style=for-the-badge)
+
+<a href="https://github.com/yugalofficial">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/yugalofficial">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yugalna28@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/yugalofficial">
+<img src="https://img.shields.io/badge/GitHub-Profile-6D28D9?style=for-the-badge&logo=github"/>
+</a>
+
+![](https://komarev.com/ghpvc/?username=yugalofficial&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/yugalofficial?style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/stars/yugalofficial?style=for-the-badge&color=A855F7)
+
+</div>
+
+---
+
+# About Me
+
+Computer Science undergraduate at **University of Delhi** with experience spanning **Software Engineering, Data Analytics, Educational Technology, Content Operations, SEO Strategy, and Community Leadership**.
+
+My work combines analytical thinking with practical execution, ranging from educational content systems and digital engagement initiatives to data-driven projects and AI-powered solutions. I enjoy building structured systems, solving real-world problems, and continuously expanding my expertise across software development, machine learning, and scalable technology platforms.
+
+### Open To
+
+- Software Engineering Internships
+- Data Analyst Roles
+- AI / ML Projects
+- Open Source Contributions
+- Technical Community Leadership
+- Research Collaborations
+- Product Engineering Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+## Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugalofficial&show_icons=true&locale=en&layout=compact" alt="yugalofficial" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugalofficial&show_icons=true&locale=en" alt="yugalofficial" /></p>
+## Backend & Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugalofficial&" alt="yugalofficial" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+</p>
 
+## Cloud, DevOps & Tooling
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
-<details>	
- <summary><b>GSSOC(24) Badges </b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="[https://gssoc.girlscript.tech/leaderboard](https://gssoc.girlscript.tech/leaderboard?year=<2024>&username=<yugalofficial>)">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|-------------|----------|
+| Data Analysis | Advanced | Python, Pandas, Data Cleaning, Reporting |
+| Machine Learning | Intermediate | Model Understanding, Analytics Workflows |
+| Data Visualization | Advanced | Business Insights, Dashboard-Oriented Analytics |
+| Environmental Analytics | Intermediate | Pollution Source Identification Research |
+| Educational Technology | Advanced | Content Structuring & Learning Systems |
+| AI Applications | Intermediate | AI-driven Solution Development |
+| Research & Documentation | Advanced | Technical Documentation, LaTeX, Reporting |
+| Database Analytics | Intermediate | SQL Querying and Data Processing |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI-Driven Pollution Source Identification — Smart India Hackathon 2025</b></summary>
+
+### Overview
+
+Developed an AI-powered environmental analytics solution focused on identifying pollution sources through intelligent data processing and visualization.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Data Analytics, Visualization |
+| Scale | Multi-source Environmental Data |
+| Performance | Real-time Analytical Insights |
+| Security | Structured Data Handling |
+| Impact | National Level Grand Finale Finalist |
+| Repository | Private / Research Project |
+
+### Highlights
+
+- Collaborated within a 6-member engineering team.
+- Processed environmental datasets.
+- Built analytics-driven insights.
+- Contributed to dashboard-oriented decision support.
+- Selected among national finalists at Smart India Hackathon 2025.
+
 </details>
 
+<details>
+<summary><b>Yugal Class 12 Study Guide</b></summary>
 
+### Overview
 
-<!--
-**yugalofficial/yugalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Educational platform focused on providing structured CBSE learning resources through SEO-optimized content and accessible study material.
 
-Here are some ideas to get you started:
+| Metric | Details |
+|----------|----------|
+| Stack | Blogger, SEO, Content Systems |
+| Scale | Educational Resource Platform |
+| Performance | Optimized Search Visibility |
+| Security | Platform Managed |
+| Impact | Student Learning Support |
+| Repository | Content Platform |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+
+- Developed and managed educational website.
+- Published exam-oriented study resources.
+- Created structured notes and important question banks.
+- Implemented SEO optimization strategies.
+- Improved content accessibility and readability.
+
+</details>
+
+<details>
+<summary><b>Diwali Sales Data Analysis</b></summary>
+
+### Overview
+
+Large-scale sales analytics project focused on extracting business insights from transactional datasets.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Pandas, Data Visualization |
+| Scale | 10,000+ Records |
+| Performance | Analytical Reporting |
+| Security | Clean Structured Processing |
+| Impact | Business Insight Generation |
+| Repository | Analytics Project |
+
+### Highlights
+
+- Cleaned and transformed raw datasets.
+- Performed exploratory data analysis.
+- Generated actionable business insights.
+- Created visual reports for trend identification.
+- Improved reporting workflow efficiency.
+
+</details>
+
+---
+
+# Experience
+
+## Campus Ambassador Intern — Physics Wallah
+
+**Oct 2024 – Apr 2025**
+
+Supported outreach campaigns, student engagement initiatives, and educational program promotion activities.
+
+### Scope of Work
+
+- Managed student communication channels.
+- Supported marketing and outreach campaigns.
+- Assisted enrollment-focused engagement.
+- Coordinated with internal stakeholders.
+- Generated 110+ direct enrollments.
+
+**Skills**
+
+`Communication`
+`Digital Outreach`
+`Community Management`
+`Leadership`
+`Engagement`
+
+---
+
+## Secretary — WEBSTERS Computer Science Society
+
+**Sep 2024 – May 2025**
+
+Led communication and coordination efforts for technical events, workshops, and student engagement programs.
+
+### Scope of Work
+
+- Organized technical events.
+- Managed outreach activities.
+- Coordinated faculty and student teams.
+- Supported event promotion campaigns.
+- Increased participation and visibility.
+
+**Skills**
+
+`Leadership`
+`Event Management`
+`Communication`
+`Team Coordination`
+`Technical Communities`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|----------|
+| Smart India Hackathon 2025 | National Level Grand Finale Finalist |
+| University Leadership | Secretary, WEBSTERS Computer Science Society |
+| Outreach Impact | 110+ Course Enrollments through PW Campaigns |
+| Technical Documentation | Advanced LaTeX Documentation Experience |
+| Educational Technology | Developed SEO-focused Learning Platform |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![Cloud](https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![Database](https://img.shields.io/badge/Oracle-Database%20Concepts-F80000?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Learning-4F46E5?style=for-the-badge)
+
+## Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+## Professional Certifications
+
+![Postman](https://img.shields.io/badge/Postman-API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman)
+
+![ISRO](https://img.shields.io/badge/ISRO-GNSS%20Certification-6D28D9?style=for-the-badge)
+
+![Forage](https://img.shields.io/badge/TCS-Forage%20Virtual%20Internship-2563EB?style=for-the-badge)
+
+![Cyber](https://img.shields.io/badge/Digital%20Forensics-Cyber%20Intelligence-7C3AED?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](#)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](#)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank)](#)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](#)
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugalofficial&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalofficial&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yugalofficial&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yugalofficial&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugalofficial&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yugalofficial/yugalofficial/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Backend Engineering
+  - Cloud Fundamentals
+
+Building:
+  - AI-Powered Applications
+  - Analytics Dashboards
+  - Educational Technology Platforms
+
+Exploring:
+  - Open Source Development
+  - Data Engineering
+  - Scalable Systems Design
+
+Open_To:
+  - Software Engineering Internships
+  - Data Analytics Roles
+  - AI/ML Opportunities
+  - Research Collaborations
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:yugalna28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/yugalofficial">
+<img src="https://img.shields.io/badge/LinkedIn-Yugal%20Official-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/yugalofficial">
+<img src="https://img.shields.io/badge/GitHub-yugalofficial-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/yugalofficial">
+<img src="https://img.shields.io/badge/Portfolio-View%20Projects-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building technology that creates measurable impact through engineering, analytics, and continuous learning."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,50:7C3AED,100:A855F7"/>
