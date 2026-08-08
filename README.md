@@ -1,234 +1,143 @@
 <div align="center">
 
-<!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,55:1D4ED8,100:7C3AED&text=Yugal&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20AI-Powered%20Products%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=19&animation=fadeIn" alt="Yugal — AI Software Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,45:123B6D,75:2563EB,100:7C3AED&text=YUGAL&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=AI%20SOFTWARE%20ENGINEER%20%7C%20BUILDING%20AI-POWERED%20PRODUCTS&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Yugal AI Software Engineer"/>
 
-<!-- Animated positioning -->
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+that+solves+real-world+problems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Full-Stack;Turning+ideas+into+useful+products+and+automation;Smart+India+Hackathon+Grand+Finalist" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=I+build+AI-powered+software+that+solves+real+problems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Full-Stack;From+idea+%E2%86%92+prototype+%E2%86%92+useful+product;Smart+India+Hackathon+Grand+Finalist" alt="Animated profile introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/YugalOfficial">
-  <img src="https://img.shields.io/badge/GitHub-YugalOfficial-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/yugalofficial/">
-  <img src="https://img.shields.io/badge/LinkedIn-Yugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/YugalOfficial">
+<img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://techinsureainews.blogspot.com/">
-  <img src="https://img.shields.io/badge/TechInsureAI-Blog-111827?style=for-the-badge&logo=blogger&logoColor=white" alt="TechInsureAI"/>
+<img src="https://img.shields.io/badge/TechInsureAI-Read-2563EB?style=for-the-badge&logo=blogger&logoColor=white" alt="TechInsureAI"/>
 </a>
 <a href="mailto:yugalofficial63@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Discuss%20a%20Project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YugalOfficial&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YugalOfficial?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=YugalOfficial&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/YugalOfficial?label=FOLLOWERS&style=flat-square&color=7C3AED" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm **Yugal**, an **AI Software Engineer** focused on building practical AI-powered software and web solutions that solve real-world problems.
+I'm **Yugal**, an **AI Software Engineer** focused on building practical AI-powered applications and web solutions.
 
-I enjoy working at the intersection of **Artificial Intelligence, software engineering, product thinking, and business problem-solving** — taking an idea, understanding the underlying problem, and turning it into a usable application.
+I like working where **AI, software engineering and real-world problems** meet — understanding the problem first, choosing the right technology, and turning ideas into useful products.
 
-My current technical focus includes **Generative AI, LLM applications, RAG, prompt engineering, AI integrations, backend APIs, React applications, and Firebase-based products**.
+My current work and learning revolve around:
 
-I'm especially interested in how AI can be applied to:
+**Generative AI · LLM Applications · RAG · Prompt Engineering · AI Integrations · Full-Stack Development · APIs · Data-Driven Applications · AI Automation**
 
-- 🤖 Build intelligent applications and AI assistants
-- ⚙️ Automate repetitive business and operational workflows
-- 📊 Turn data into useful insights and decisions
-- 🧩 Improve existing products with AI capabilities
-- 🚀 Rapidly prototype and iterate on new product ideas
-- 🏗️ Build maintainable, scalable full-stack solutions
+I’m particularly interested in building technology that can make a workflow **simpler, faster, smarter or more useful**.
 
-> **My approach:** understand the problem → choose the right technology → build → test → improve → deliver something useful.
+> **Build with purpose. Learn continuously. Ship useful things.**
 
 ---
 
-## 🏆 Highlights
+## What I Build
 
-<div align="center">
-
-| Achievement | What it represents |
-|---|---|
-| 🥇 **Smart India Hackathon — Grand Finalist** | Built an AI-powered environmental intelligence solution |
-| 🚀 **3rd Position — Shivaji College Internal Hackathon** | Built an AI-assisted campus event & management platform |
-| 🎓 **B.Sc. Computer Science — University of Delhi** | Computer Science foundation with AI/ML/NLP coursework |
-| 🌐 **PhysicsWallah Campus Ambassador** | 110+ verified enrollments and ₹4.1L+ attributed revenue |
-| 🔐 **C-DAC Cybersecurity Intern** | 200+ hours of practical security learning and labs |
-| 👥 **Secretary — WEBSTERS** | Technical events, coordination and student community leadership |
-| ✍️ **TechInsureAI** | Technology and AI-focused content and research |
-
-</div>
+| AI | Software | Product |
+|:---|:---|:---|
+| Generative AI | Python / FastAPI | AI-powered products |
+| LLM applications | React / TypeScript | Intelligent workflows |
+| RAG & semantic search | REST APIs | Business automation |
+| Prompt engineering | Firebase / Firestore | Data-driven solutions |
+| Gemini / AI integrations | SQL / Git / GitHub | Rapid prototypes |
 
 ---
 
-## 🧠 What I Build
+## Selected Work
 
-### AI & Intelligent Applications
+### 🏆 AI-Powered Environmental Intelligence Platform
+**Smart India Hackathon — Grand Finalist**
 
-I build applications that combine software engineering with modern AI capabilities.
+`Python` `FastAPI` `Google Gemini` `REST APIs` `Bootstrap` `Chart.js`
 
-**Generative AI**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Semantic Search
-- AI Integrations
-- Google Gemini API
-- Hugging Face Embeddings
-- LangChain
-- FAISS
+Built an AI-powered environmental analytics platform to identify pollution sources across Delhi-NCR monitoring stations and generate actionable insights.
 
-**Software Engineering**
-- Python
-- FastAPI
-- REST APIs
-- React
-- TypeScript
-- JavaScript
-- SQL
-- Firebase / Firestore
-- Git & GitHub
-
-**Interfaces & Data**
-- Streamlit
-- Tailwind CSS
-- Bootstrap
-- Chart.js
-- Google Sheets
-- Google Apps Script
-- Data visualization
-
-**AI Development Workflow**
-- Claude
-- ChatGPT
-- Google Gemini
-- Google AI Studio
-- Google Stitch
-- GitHub Copilot
-- Prompt-driven prototyping
-- Debugging and iterative development
+- AI-powered analysis and recommendations using Google Gemini
+- FastAPI REST APIs for structured analysis and source attribution
+- Interactive dashboards for pollution trends and decision support
+- Rapid product iteration with a multidisciplinary hackathon team
 
 ---
 
-# 🚀 Featured Projects
+### 🩺 MediChat — Medical Knowledge Assistant
+**RAG-based document intelligence application**
 
-## 🩺 MediChat — Medical Knowledge Assistant
+`Python` `LangChain` `FAISS` `Hugging Face` `Streamlit` `LLM`
 
-**RAG-based AI application for document-grounded question answering**
+Built a document-grounded AI assistant for querying medical PDFs.
 
-**Stack:** Python · Streamlit · LangChain · FAISS · Hugging Face Embeddings · Groq Llama 3.1 · RAG
-
-- Built a Retrieval-Augmented Generation chatbot for querying medical documents.
-- Developed an end-to-end pipeline for PDF processing, semantic chunking, vector indexing and similarity search.
-- Added citation-based responses and validation to make answers more transparent and reduce hallucination risk.
-- Designed a modular architecture separating ingestion, retrieval, prompting and conversation.
-- Built a responsive Streamlit interface with session-based chat history and configurable API settings.
+- Semantic chunking, vector indexing and similarity search
+- Retrieval-Augmented Generation for contextual answers
+- Citation-based responses to improve transparency
+- Modular ingestion → retrieval → prompting → conversation architecture
 
 ---
 
-## 🌍 AI-Powered Environmental Intelligence Platform
+### 🎓 Campus Connect
+**AI-Powered Campus Event & Management Platform**
 
-### Smart India Hackathon — Grand Finalist
+`React` `TypeScript` `Firebase` `Tailwind CSS`
 
-**Stack:** Python · FastAPI · Google Gemini API · REST APIs · Bootstrap · Chart.js · Render
+Built a full-stack platform for campus events, announcements, authentication and student engagement.
 
-- Developed an AI-powered environmental analytics platform focused on pollution-source identification across Delhi-NCR monitoring stations.
-- Generated structured AI analysis and actionable environmental recommendations using Google Gemini.
-- Built FastAPI REST APIs for AI-powered analysis and source attribution.
-- Designed interactive dashboards to visualize pollution trends and support data-driven decision-making.
-- Collaborated with a multidisciplinary hackathon team to rapidly iterate on product features and present a production-oriented solution.
-- Selected for the **Smart India Hackathon Grand Finale**.
-
----
-
-## 🎓 Campus Connect — AI-Powered Campus Platform
-
-**Stack:** React · TypeScript · Firebase · Tailwind CSS · Google AI Studio
-
-- Built a full-stack campus management platform for event registration, announcements, authentication and student engagement.
-- Implemented Firebase Authentication and Firestore for secure user management and real-time application workflows.
-- Designed responsive interfaces using Tailwind CSS with reusable React components.
-- Used AI-assisted development workflows for rapid prototyping, debugging and feature iteration.
-- Secured **3rd Position in the Shivaji College Internal Hackathon**.
+- Firebase Authentication and Firestore
+- Reusable React components
+- Responsive Tailwind interface
+- AI-assisted prototyping and development workflows
+- **3rd Position — Shivaji College Internal Hackathon**
 
 ---
 
-## 🏥 Smart Hospital Bed Tracker
+### 🏥 Smart Hospital Bed Tracker
+**Healthcare information & location-aware web application**
 
-**Stack:** JavaScript · Google Apps Script · Google Sheets · Google Maps Platform · REST APIs
+`JavaScript` `Google Apps Script` `Google Sheets` `Google Maps`
 
-- Built a lightweight healthcare information platform for discovering nearby hospitals and viewing bed availability.
-- Created REST APIs using Google Apps Script and Google Sheets for dynamic data management.
-- Integrated Google Maps Platform and browser geolocation for location-aware hospital search and navigation.
-- Focused on keeping the solution lightweight, maintainable and accessible.
+Built a lightweight application to help users discover nearby hospitals and access dynamic bed-availability information.
 
----
-
-## 💡 How I Think About AI Products
-
-I don't want to build AI simply because AI is trending.
-
-I'm interested in the space between **technology and the actual problem**.
-
-```text
-Real Problem
-     ↓
-Understand Users & Workflow
-     ↓
-Choose the Right AI / Software Approach
-     ↓
-Prototype
-     ↓
-Build the Product
-     ↓
-Test & Validate
-     ↓
-Iterate
-     ↓
-Useful Solution
-```
-
-The goal is simple:
-
-> **Use technology where it creates real value.**
+- REST APIs using Google Apps Script
+- Google Sheets as a lightweight data backend
+- Maps and browser geolocation integration
+- Location-aware hospital discovery and navigation
 
 ---
 
-# 🛠️ Technology Stack
+## Engineering Stack
 
 <div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" alt="Programming languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" alt="Languages"/>
+### AI / Backend
+<img src="https://skillicons.dev/icons?i=fastapi,firebase" alt="Backend technologies"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" alt="Google Gemini"/>
 
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-<br/>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
-
-### Full-Stack & Backend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,firebase,fastapi,git,github,vscode" alt="Full stack technologies"/>
-
-### Tools
-
+### Frontend / Tools
+<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" alt="Frontend and developer tools"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge" alt="Google AI Studio"/>
@@ -239,130 +148,105 @@ The goal is simple:
 
 ---
 
-# 📚 Learning & Certifications
+## How I Approach AI Products
 
-### Google AI Essentials — Google / Coursera
+```text
+                REAL PROBLEM
+                     │
+                     ▼
+             Understand the user
+                     │
+                     ▼
+             Choose the right stack
+                     │
+                     ▼
+              Build a prototype
+                     │
+                     ▼
+              Test & validate
+                     │
+                     ▼
+              Iterate & improve
+                     │
+                     ▼
+              USEFUL PRODUCT
+```
 
-Completed June 2026.
+I’m not interested in adding AI just because it is trending.
 
-Covered:
-
-- Introduction to AI
-- AI productivity tools
-- Prompting
-- Responsible AI
-- Staying current with AI developments
-
-**Key areas:** Generative AI · Google Gemini · Prompt Patterns · AI Integrations · AI Literacy · Critical Thinking
-
-### Google Prompting Essentials — Google / Coursera
-
-Completed June 2026.
-
-Covered:
-
-- Writing effective prompts
-- Designing prompts for everyday work
-- AI-assisted data analysis and presentation building
-- Using AI as a creative or expert partner
-
-**Key areas:** Prompt Engineering · Generative AI · Data Synthesis · Critical Thinking · Data Visualization · AI Personalization
-
-### Additional Learning
-
-- Microsoft Azure Fundamentals Cloud Skills Challenge
-- Google AI Essentials
-- Google Prompting Essentials
-- Google Prompting / AI learning coursework
-- AI: Navigating Regulations & Standards
-- What Is Generative AI?
-- Postman API Fundamentals Student Expert
-- Tata Data Visualisation Job Simulation
-- Excel Skills Job Simulation
-- Cognizant Artificial Intelligence Job Simulation
-- ISRO GNSS Certification
-- TCS Communication Skills Certificate
+I’m interested in finding **where AI genuinely creates value** — whether that means reducing repetitive work, improving access to information, supporting decisions, or making a product more useful.
 
 ---
 
-# 👥 Leadership & Experience
+## Experience & Leadership
 
-### PhysicsWallah — Campus Ambassador
+**PhysicsWallah — Campus Ambassador**  
+Digital outreach, campaign execution and learner engagement; contributed to **110+ verified enrollments** and **₹4.1L+ attributed revenue**.
 
-**September 2024 – April 2026**
+**C-DAC — Cybersecurity Intern**  
+Completed **200+ hours** of structured practical learning in vulnerability assessment, security analysis and documentation.
 
-- Managed digital outreach campaigns and maintained structured records for prospective learners.
-- Contributed to **110+ verified student enrollments**.
-- Generated **₹4.1 lakh+ in attributed platform revenue**.
-- Worked with marketing teams, student communities and campus representatives.
+**WEBSTERS — Computer Science Society, Shivaji College**  
+Secretary; coordinated technical events, workshops, hackathons, documentation and communication across faculty, speakers and student teams.
 
-### WEBSTERS — Computer Science Society, Shivaji College
-
-**Secretary**
-
-- Coordinated technical events, workshops, hackathons and departmental activities.
-- Worked with faculty, speakers, volunteers and student teams.
-- Managed documentation, communication and operational coordination.
-
-### C-DAC — Cybersecurity Intern
-
-**May 2025 – July 2025**
-
-- Completed **200+ hours** of structured ethical hacking and cybersecurity training.
-- Worked on vulnerability assessment, security analysis and technical documentation.
-- Practiced Windows/Linux security assessment and basic penetration-testing workflows.
+**TechInsureAI — Technology Content**  
+Writing and exploring technology, AI and emerging digital trends.
 
 ---
 
-# 🎯 What I'm Looking For
+## Learning
 
-I'm interested in opportunities where I can combine **software engineering + AI + product thinking**.
+**Google AI Essentials — Google / Coursera**  
+AI fundamentals · Generative AI · Prompting · Responsible AI · AI productivity
 
-### Open to
+**Google Prompting Essentials — Google / Coursera**  
+Prompt engineering · AI-assisted workflows · Data synthesis · Critical thinking
 
-**AI Software Engineering · Software Engineering · AI Engineering · Generative AI · ML/AI Applications · AI Product Engineering · Full-Stack Development**
-
-I'm particularly interested in working with:
-
-- Product-focused engineering teams
-- AI startups
-- Early-stage founders
-- Teams building useful AI products
-- Organizations exploring practical AI automation
-- Problems where software can create measurable impact
+**Additional learning:**  
+Microsoft Azure Fundamentals · Postman API Fundamentals · Tata Data Visualisation · Excel Skills · Cognizant AI Job Simulation · AI Regulations & Standards · Generative AI · ISRO GNSS
 
 ---
 
-# 🤝 Let's Build Something Useful
+## A Few Things I Care About
 
-If you're a **founder, engineer, recruiter, product builder, or someone working on an interesting AI problem**, I'd be happy to connect.
+- Building before overthinking
+- Understanding the problem before choosing the technology
+- Writing maintainable software
+- Learning by experimenting
+- Using AI responsibly
+- Turning technical ideas into useful products
+- Sharing what I learn
 
-I'm always interested in conversations around:
+---
 
-**AI products · software engineering · automation · RAG · LLM applications · product ideas · technical collaboration**
+## Open To
 
-<br/>
+**AI Software Engineering · Software Engineering · AI Engineering · Generative AI · AI Product Engineering · Full-Stack Development**
+
+I'm especially interested in collaborating with **product teams, startups, founders and engineers** working on meaningful problems where software and AI can create measurable value.
+
+---
 
 <div align="center">
 
-### 📩 Discuss a project or collaboration
+## Let's Build Something Useful
+
+**Have an interesting AI / software problem, product idea or collaboration in mind?**
 
 <a href="mailto:yugalofficial63@gmail.com">
-  <img src="https://img.shields.io/badge/yugalofficial63%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yugal"/>
+<img src="https://img.shields.io/badge/Email%20Yugal-yugalofficial63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yugal"/>
 </a>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/yugalofficial/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/YugalOfficial">
-  <img src="https://img.shields.io/badge/Explore%20My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
+<img src="https://img.shields.io/badge/LinkedIn-Yugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1D4ED8,100:0F172A" alt="Footer"/>
+<sub>AI • Software • Products • Real-world problems</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:2563EB,100:0B1220" width="100%" alt="Profile footer"/>
 
 </div>
