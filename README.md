@@ -1,446 +1,368 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yugal&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20|%20Software%20Engineering%20|%20AI%20%26%20Data%20Analytics&descAlignY=60"/>
+<!-- Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,55:1D4ED8,100:7C3AED&text=Yugal&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20AI-Powered%20Products%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=19&animation=fadeIn" alt="Yugal — AI Software Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;AI+%26+Data+Analytics+Learner;Smart+India+Hackathon+Finalist;Building+Technology+With+Impact"/>
-
-<br>
-
-![University](https://img.shields.io/badge/University-University%20of%20Delhi-6D28D9?style=for-the-badge)
-![Degree](https://img.shields.io/badge/B.Sc-Computer%20Science-7C3AED?style=for-the-badge)
-![Graduation](https://img.shields.io/badge/Graduating-2026-8B5CF6?style=for-the-badge)
-
-<br>
-
-<a href="https://yugalofficial.github.io/portfloio">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<!-- Animated positioning -->
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+that+solves+real-world+problems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Full-Stack;Turning+ideas+into+useful+products+and+automation;Smart+India+Hackathon+Grand+Finalist" alt="Animated introduction"/>
 </a>
 
-<a href="https://linkedin.com/in/yugalofficial">
-<img src="https://img.shields.io/badge/LinkedIn-Yugal%20Official-0A66C2?style=for-the-badge&logo=linkedin"/>
+<br/>
+
+<a href="https://github.com/YugalOfficial">
+  <img src="https://img.shields.io/badge/GitHub-YugalOfficial-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/yugalofficial/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yugal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://techinsureainews.blogspot.com/">
+  <img src="https://img.shields.io/badge/TechInsureAI-Blog-111827?style=for-the-badge&logo=blogger&logoColor=white" alt="TechInsureAI"/>
+</a>
+<a href="mailto:yugalofficial63@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="mailto:yugalna28@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/yugalofficial">
-<img src="https://img.shields.io/badge/GitHub-yugalofficial-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=yugalofficial&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/yugalofficial?label=FOLLOWERS&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/yugalofficial?affiliations=OWNER&style=for-the-badge&color=A855F7)
+<img src="https://komarev.com/ghpvc/?username=YugalOfficial&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/YugalOfficial?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-# About Me
+## 👋 About Me
 
-Computer Science undergraduate at **Shivaji College, University of Delhi** with hands-on experience across **Software Engineering, Data Analytics, Educational Technology, Content Operations, Community Leadership, and Technical Documentation**.
+I'm **Yugal**, an **AI Software Engineer** focused on building practical AI-powered software and web solutions that solve real-world problems.
 
-My work focuses on building practical technology solutions, analyzing data for actionable insights, and creating structured systems that improve accessibility and efficiency. I enjoy solving real-world problems through software, collaborating on impactful projects, and continuously learning emerging technologies in AI, analytics, and modern development workflows.
+I enjoy working at the intersection of **Artificial Intelligence, software engineering, product thinking, and business problem-solving** — taking an idea, understanding the underlying problem, and turning it into a usable application.
 
-### Open To
+My current technical focus includes **Generative AI, LLM applications, RAG, prompt engineering, AI integrations, backend APIs, React applications, and Firebase-based products**.
 
-- Software Engineering Internships
-- Data Analytics Opportunities
-- AI & Machine Learning Projects
-- Open Source Contributions
-- Technical Community Leadership
-- Research Collaborations
-- Product Engineering Roles
+I'm especially interested in how AI can be applied to:
+
+- 🤖 Build intelligent applications and AI assistants
+- ⚙️ Automate repetitive business and operational workflows
+- 📊 Turn data into useful insights and decisions
+- 🧩 Improve existing products with AI capabilities
+- 🚀 Rapidly prototype and iterate on new product ideas
+- 🏗️ Build maintainable, scalable full-stack solutions
+
+> **My approach:** understand the problem → choose the right technology → build → test → improve → deliver something useful.
 
 ---
 
-# Tech Stack
-
-## Languages
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql" />
-
-</div>
-
-## Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</div>
-
-## Documentation & Productivity
-
-<div align="center">
-
-![LaTeX](https://img.shields.io/badge/LaTeX-Technical%20Documentation-008080?style=for-the-badge&logo=latex)
-
-![Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel)
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Reporting-34A853?style=for-the-badge&logo=googlesheets)
-
-![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva)
+| Achievement | What it represents |
+|---|---|
+| 🥇 **Smart India Hackathon — Grand Finalist** | Built an AI-powered environmental intelligence solution |
+| 🚀 **3rd Position — Shivaji College Internal Hackathon** | Built an AI-assisted campus event & management platform |
+| 🎓 **B.Sc. Computer Science — University of Delhi** | Computer Science foundation with AI/ML/NLP coursework |
+| 🌐 **PhysicsWallah Campus Ambassador** | 110+ verified enrollments and ₹4.1L+ attributed revenue |
+| 🔐 **C-DAC Cybersecurity Intern** | 200+ hours of practical security learning and labs |
+| 👥 **Secretary — WEBSTERS** | Technical events, coordination and student community leadership |
+| ✍️ **TechInsureAI** | Technology and AI-focused content and research |
 
 </div>
 
 ---
 
-# AI / Data Analytics Expertise
+## 🧠 What I Build
 
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Data Analysis | Advanced | Python, Pandas, Data Cleaning, Insight Generation |
-| Data Visualization | Advanced | Analytical Reporting & Trend Identification |
-| Machine Learning Concepts | Intermediate | Applied AI Solution Development |
-| Environmental Analytics | Intermediate | Pollution Source Identification Research |
-| SQL & Databases | Intermediate | Querying, Data Processing, Structured Analysis |
-| Educational Technology | Advanced | Content Systems & Learning Resources |
-| Technical Documentation | Advanced | LaTeX, Research Formatting, Documentation |
-| Business Analytics | Intermediate | Sales Trend Analysis & Reporting |
+### AI & Intelligent Applications
 
----
+I build applications that combine software engineering with modern AI capabilities.
 
-# Featured Projects
+**Generative AI**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Semantic Search
+- AI Integrations
+- Google Gemini API
+- Hugging Face Embeddings
+- LangChain
+- FAISS
 
-<details>
-<summary><b>AI-Driven Pollution Source Identification (SIH 2025)</b></summary>
+**Software Engineering**
+- Python
+- FastAPI
+- REST APIs
+- React
+- TypeScript
+- JavaScript
+- SQL
+- Firebase / Firestore
+- Git & GitHub
 
-### Project Overview
+**Interfaces & Data**
+- Streamlit
+- Tailwind CSS
+- Bootstrap
+- Chart.js
+- Google Sheets
+- Google Apps Script
+- Data visualization
 
-National-level Smart India Hackathon project focused on identifying environmental pollution sources using AI-assisted analytical workflows and data-driven insights.
-
-| Category | Details |
-|-----------|----------|
-| Repository | https://github.com/yugalofficial/SIH25216_Half_Dozen |
-| Stack | Python, Data Analytics, Visualization |
-| Scale | Multi-source Environmental Dataset |
-| Performance | Analytical Insight Generation |
-| Security | Structured Data Processing |
-| Impact | Smart India Hackathon Grand Finale |
-
-### Key Contributions
-
-- Worked in a 6-member interdisciplinary team.
-- Analyzed environmental datasets.
-- Assisted in dashboard-based analytical workflows.
-- Generated actionable insights through data visualization.
-- Contributed to a nationally recognized SIH solution.
-
-</details>
-
-<details>
-<summary><b>Diwali Sales Data Analysis</b></summary>
-
-### Project Overview
-
-Comprehensive sales analytics project involving cleaning, processing, and analyzing more than 10,000 sales records to uncover purchasing patterns and business insights.
-
-| Category | Details |
-|-----------|----------|
-| Repository | https://github.com/yugalofficial/Diwali_Sales_Analysis |
-| Stack | Python, Pandas |
-| Scale | 10,000+ Records |
-| Performance | Insight-Based Reporting |
-| Security | Structured Data Handling |
-| Impact | Business Decision Support |
-
-### Key Contributions
-
-- Cleaned raw datasets.
-- Conducted exploratory data analysis.
-- Created visual reporting workflows.
-- Identified consumer purchasing trends.
-- Generated business-focused recommendations.
-
-</details>
-
-<details>
-<summary><b>PDF Merge Utility</b></summary>
-
-### Project Overview
-
-Utility application designed to simplify PDF management and document merging workflows.
-
-| Category | Details |
-|-----------|----------|
-| Repository | https://github.com/yugalofficial/pdf-merge |
-| Stack | Python |
-| Scale | Document Processing |
-| Performance | Fast File Consolidation |
-| Security | Local File Operations |
-| Impact | Productivity Enhancement |
-
-### Key Contributions
-
-- Built PDF processing workflow.
-- Automated file merging operations.
-- Improved document management efficiency.
-- Simplified repetitive manual tasks.
-
-</details>
-
-<details>
-<summary><b>Yugal Class 12 Study Guide</b></summary>
-
-### Project Overview
-
-Personal educational platform focused on providing structured CBSE Class 12 learning resources through SEO-optimized content and student-friendly formatting.
-
-| Category | Details |
-|-----------|----------|
-| Platform | Blogger |
-| Focus | Educational Technology |
-| Users | CBSE Students |
-| Impact | Accessible Learning Resources |
-| Optimization | SEO-Based Content Strategy |
-
-### Key Contributions
-
-- Developed educational content ecosystem.
-- Created exam-oriented study materials.
-- Published structured notes and question banks.
-- Improved discoverability through SEO techniques.
-- Enhanced content accessibility.
-
-</details>
+**AI Development Workflow**
+- Claude
+- ChatGPT
+- Google Gemini
+- Google AI Studio
+- Google Stitch
+- GitHub Copilot
+- Prompt-driven prototyping
+- Debugging and iterative development
 
 ---
 
-# Experience
+# 🚀 Featured Projects
 
-## Campus Ambassador Intern | Physics Wallah
+## 🩺 MediChat — Medical Knowledge Assistant
 
-**Oct 2024 – Apr 2025**
+**RAG-based AI application for document-grounded question answering**
 
-Supported educational outreach initiatives and student engagement campaigns.
+**Stack:** Python · Streamlit · LangChain · FAISS · Hugging Face Embeddings · Groq Llama 3.1 · RAG
 
-### Responsibilities
-
-- Assisted digital outreach campaigns.
-- Managed communication activities.
-- Increased student participation through engagement.
-- Collaborated with internal teams.
-- Generated 110+ direct course enrollments.
-
-**Skills**
-
-`Communication`
-`Community Engagement`
-`Leadership`
-`Digital Outreach`
-`Campaign Coordination`
+- Built a Retrieval-Augmented Generation chatbot for querying medical documents.
+- Developed an end-to-end pipeline for PDF processing, semantic chunking, vector indexing and similarity search.
+- Added citation-based responses and validation to make answers more transparent and reduce hallucination risk.
+- Designed a modular architecture separating ingestion, retrieval, prompting and conversation.
+- Built a responsive Streamlit interface with session-based chat history and configurable API settings.
 
 ---
 
-## Secretary | WEBSTERS – Computer Science Society
+## 🌍 AI-Powered Environmental Intelligence Platform
 
-**Sep 2024 – May 2025**
+### Smart India Hackathon — Grand Finalist
 
-Managed communication and operational coordination for technical events, workshops, and student activities.
+**Stack:** Python · FastAPI · Google Gemini API · REST APIs · Bootstrap · Chart.js · Render
 
-### Responsibilities
-
-- Organized technical events.
-- Coordinated student teams.
-- Managed outreach initiatives.
-- Worked with faculty and guest speakers.
-- Enhanced event participation and visibility.
-
-**Skills**
-
-`Leadership`
-`Event Management`
-`Team Coordination`
-`Communication`
-`Community Building`
+- Developed an AI-powered environmental analytics platform focused on pollution-source identification across Delhi-NCR monitoring stations.
+- Generated structured AI analysis and actionable environmental recommendations using Google Gemini.
+- Built FastAPI REST APIs for AI-powered analysis and source attribution.
+- Designed interactive dashboards to visualize pollution trends and support data-driven decision-making.
+- Collaborated with a multidisciplinary hackathon team to rapidly iterate on product features and present a production-oriented solution.
+- Selected for the **Smart India Hackathon Grand Finale**.
 
 ---
 
-# Achievements
+## 🎓 Campus Connect — AI-Powered Campus Platform
 
-<div align="center">
+**Stack:** React · TypeScript · Firebase · Tailwind CSS · Google AI Studio
 
-| Recognition | Details |
-|------------|----------|
-| Smart India Hackathon 2025 | National Level Grand Finale Finalist |
-| Physics Wallah | 110+ Course Enrollments Generated |
-| WEBSTERS Society | Secretary, Computer Science Society |
-| Educational Technology | Developed Student Learning Platform |
-| Technical Documentation | Advanced LaTeX Documentation Experience |
-
-</div>
+- Built a full-stack campus management platform for event registration, announcements, authentication and student engagement.
+- Implemented Firebase Authentication and Firestore for secure user management and real-time application workflows.
+- Designed responsive interfaces using Tailwind CSS with reusable React components.
+- Used AI-assisted development workflows for rapid prototyping, debugging and feature iteration.
+- Secured **3rd Position in the Shivaji College Internal Hackathon**.
 
 ---
 
-# Certifications
+## 🏥 Smart Hospital Bed Tracker
 
-## Professional Certifications
+**Stack:** JavaScript · Google Apps Script · Google Sheets · Google Maps Platform · REST APIs
 
-![Postman](https://img.shields.io/badge/Postman-API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman)
-
-![ISRO](https://img.shields.io/badge/ISRO-GNSS%20Certification-6D28D9?style=for-the-badge)
-
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-Cyber%20Intelligence-7C3AED?style=for-the-badge)
-
-![TCS](https://img.shields.io/badge/TCS-Forage%20Virtual%20Internship-2563EB?style=for-the-badge)
-
-![LaTeX](https://img.shields.io/badge/LaTeX-Academic%20Writing-008080?style=for-the-badge)
+- Built a lightweight healthcare information platform for discovering nearby hospitals and viewing bed availability.
+- Created REST APIs using Google Apps Script and Google Sheets for dynamic data management.
+- Integrated Google Maps Platform and browser geolocation for location-aware hospital search and navigation.
+- Focused on keeping the solution lightweight, maintainable and accessible.
 
 ---
 
-# Open Source & Community Recognition
+## 💡 How I Think About AI Products
 
-<div align="center">
+I don't want to build AI simply because AI is trending.
 
-### GSSoC × Postman API Challenge
+I'm interested in the space between **technology and the actual problem**.
 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="95"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="95"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100"/>
-
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/profile/yugalna28">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://github.com/yugalofficial">
-<img src="https://img.shields.io/badge/GitHub-yugalofficial-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yugalofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalofficial&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yugalofficial&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yugalofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yugalofficial&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yugalofficial/yugalofficial/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - SQL Optimization
-  - Software Engineering Fundamentals
-
-Building:
-  - Data Analytics Projects
-  - Educational Technology Solutions
-  - Productivity Automation Tools
-
-Exploring:
-  - Open Source Development
-  - AI Applications
-  - Cloud Technologies
-
-Open_To:
-  - Software Engineering Internships
-  - Data Analyst Roles
-  - AI & ML Opportunities
-  - Research Collaborations
+```text
+Real Problem
+     ↓
+Understand Users & Workflow
+     ↓
+Choose the Right AI / Software Approach
+     ↓
+Prototype
+     ↓
+Build the Product
+     ↓
+Test & Validate
+     ↓
+Iterate
+     ↓
+Useful Solution
 ```
 
+The goal is simple:
+
+> **Use technology where it creates real value.**
+
 ---
 
-# Connect
+# 🛠️ Technology Stack
 
 <div align="center">
 
-<a href="mailto:yugalna28@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-yugalna28%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+### Languages
 
-<a href="https://linkedin.com/in/yugalofficial">
-<img src="https://img.shields.io/badge/LinkedIn-Yugal%20Official-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" alt="Languages"/>
 
-<a href="https://github.com/yugalofficial">
-<img src="https://img.shields.io/badge/GitHub-yugalofficial-181717?style=for-the-badge&logo=github"/>
-</a>
+### AI / Data
 
-<a href="https://yugalofficial.github.io/portfloio">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+<br/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge"/>
+
+### Full-Stack & Backend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,firebase,fastapi,git,github,vscode" alt="Full stack technologies"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge" alt="Google AI Studio"/>
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge" alt="Claude"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT"/>
 
 </div>
 
 ---
 
+# 📚 Learning & Certifications
+
+### Google AI Essentials — Google / Coursera
+
+Completed June 2026.
+
+Covered:
+
+- Introduction to AI
+- AI productivity tools
+- Prompting
+- Responsible AI
+- Staying current with AI developments
+
+**Key areas:** Generative AI · Google Gemini · Prompt Patterns · AI Integrations · AI Literacy · Critical Thinking
+
+### Google Prompting Essentials — Google / Coursera
+
+Completed June 2026.
+
+Covered:
+
+- Writing effective prompts
+- Designing prompts for everyday work
+- AI-assisted data analysis and presentation building
+- Using AI as a creative or expert partner
+
+**Key areas:** Prompt Engineering · Generative AI · Data Synthesis · Critical Thinking · Data Visualization · AI Personalization
+
+### Additional Learning
+
+- Microsoft Azure Fundamentals Cloud Skills Challenge
+- Google AI Essentials
+- Google Prompting Essentials
+- Google Prompting / AI learning coursework
+- AI: Navigating Regulations & Standards
+- What Is Generative AI?
+- Postman API Fundamentals Student Expert
+- Tata Data Visualisation Job Simulation
+- Excel Skills Job Simulation
+- Cognizant Artificial Intelligence Job Simulation
+- ISRO GNSS Certification
+- TCS Communication Skills Certificate
+
+---
+
+# 👥 Leadership & Experience
+
+### PhysicsWallah — Campus Ambassador
+
+**September 2024 – April 2026**
+
+- Managed digital outreach campaigns and maintained structured records for prospective learners.
+- Contributed to **110+ verified student enrollments**.
+- Generated **₹4.1 lakh+ in attributed platform revenue**.
+- Worked with marketing teams, student communities and campus representatives.
+
+### WEBSTERS — Computer Science Society, Shivaji College
+
+**Secretary**
+
+- Coordinated technical events, workshops, hackathons and departmental activities.
+- Worked with faculty, speakers, volunteers and student teams.
+- Managed documentation, communication and operational coordination.
+
+### C-DAC — Cybersecurity Intern
+
+**May 2025 – July 2025**
+
+- Completed **200+ hours** of structured ethical hacking and cybersecurity training.
+- Worked on vulnerability assessment, security analysis and technical documentation.
+- Practiced Windows/Linux security assessment and basic penetration-testing workflows.
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can combine **software engineering + AI + product thinking**.
+
+### Open to
+
+**AI Software Engineering · Software Engineering · AI Engineering · Generative AI · ML/AI Applications · AI Product Engineering · Full-Stack Development**
+
+I'm particularly interested in working with:
+
+- Product-focused engineering teams
+- AI startups
+- Early-stage founders
+- Teams building useful AI products
+- Organizations exploring practical AI automation
+- Problems where software can create measurable impact
+
+---
+
+# 🤝 Let's Build Something Useful
+
+If you're a **founder, engineer, recruiter, product builder, or someone working on an interesting AI problem**, I'd be happy to connect.
+
+I'm always interested in conversations around:
+
+**AI products · software engineering · automation · RAG · LLM applications · product ideas · technical collaboration**
+
+<br/>
+
 <div align="center">
 
-### "Building meaningful technology through software engineering, analytics, continuous learning, and community impact."
+### 📩 Discuss a project or collaboration
+
+<a href="mailto:yugalofficial63@gmail.com">
+  <img src="https://img.shields.io/badge/yugalofficial63%40gmail.com-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yugal"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/yugalofficial/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/YugalOfficial">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1D4ED8,100:0F172A" alt="Footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,50:7C3AED,100:A855F7"/>
